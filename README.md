@@ -1,7 +1,7 @@
 iplab
 =====
 
-The codes written for Image processing lab.
+The codes written for Image processing lab. (Spring '13)
 The objective of the lab was to write manual functions, without using the standard libraries of OpenCV to gain a deeper understanding of the image processing algorithms.
 
 List of experiments:
